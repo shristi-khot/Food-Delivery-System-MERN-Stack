@@ -3,6 +3,7 @@
 A full-stack Food Delivery Web Application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack.
 This project enables users to browse food items, place orders, track delivery status, and manage orders through an admin panel.
 
+
 Features:
 
 👤 User Authentication (Login / Signup with JWT).
@@ -18,6 +19,7 @@ Features:
 🛠️ Admin Dashboard (Manage Food Items, Orders, and Delivery status).
 
 📱 Responsive UI (Mobile + Desktop friendly).
+
 
 Tech Stack:
 
