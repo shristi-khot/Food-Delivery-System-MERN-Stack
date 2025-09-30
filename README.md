@@ -34,6 +34,10 @@ Authentication: JWT (JSON Web Token).
 Payment Integration: Stripe.
 
 Future Enhancements:
+
 Delivery Partner App/Module.
+
 Real-time Order Tracking with WebSockets.
+
 Push Notifications.
+
